@@ -29,11 +29,16 @@ p {
 a.button {
   text-decoration: none;
   color: #ffffff;
-  background-color: #111111;
+  background-color: #630808;
   padding: 0.75rem 1.5rem;
   border-radius: 6px;
 }
 
 a.button:hover {
   background-color: #555;
+}
+
+body {
+  background-color: rgb(205, 174, 174);
+
 }
